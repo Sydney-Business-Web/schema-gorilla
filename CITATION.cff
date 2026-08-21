@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use or reference Schema Gorilla, please cite this repository."
+title: "Schema Gorilla — Whole-Site Entity Graph Analysis and Machine-Readable Business Identity Assessment"
+
+authors:
+  - family-names: "Rowley"
+    given-names: "Keith"
+    affiliation: "Sydney Business Web"
+
+abstract: >
+  Schema Gorilla is a whole-site structured-data and entity-graph analysis
+  framework developed by Sydney Business Web. It identifies fragmented
+  business identities, conflicting entity representations, competing
+  identifiers, broken relationships, and other structural inconsistencies
+  that may not be apparent when schema markup is validated one page at a time.
+
+repository-code: "https://github.com/Sydney-Business-Web/schema-gorilla"
+url: "https://sydneybusinessweb.com.au/schema-gorilla-business-identity-analysis-for-ai/"
+
+keywords:
+  - "Schema Gorilla"
+  - "structured data"
+  - "entity graph"
+  - "business identity"
+  - "JSON-LD"
+  - "schema.org"
+  - "AI visibility"
+  - "entity engineering"
+  - "whole-site analysis"
