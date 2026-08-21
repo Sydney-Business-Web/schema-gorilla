@@ -1,6 +1,8 @@
 cff-version: 1.2.0
 message: "If you use or reference Schema Gorilla, please cite this repository."
 title: "Schema Gorilla — Whole-Site Entity Graph Analysis and Machine-Readable Business Identity Assessment"
+version: "1.0.0"
+doi: "10.5281/zenodo.22040501"
 
 authors:
   - family-names: "Rowley"
