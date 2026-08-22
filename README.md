@@ -10,6 +10,22 @@ Schema Gorilla analyses the relationships between business entities, people, ser
 
 It is not simply a page-by-page schema checker.
 
+## Production Case Study: Whole-Site Analysis
+
+Schema Gorilla has been run against the live Sydney Business Web production website using a completely fresh Discovery dataset.
+
+The analysis processed:
+
+- 273 eligible pages
+- 14,577 structured-data nodes
+- 36,414 relationships
+- 28 entity clusters
+- 0 findings under ruleset 2.2
+
+An earlier Schema Gorilla analysis had identified structural and entity issues that were subsequently investigated and corrected. Since that earlier run, the machine-readable architecture expanded by 1,008 nodes and 2,518 relationships before being analysed again.
+
+[Read the full Schema Gorilla production case study](https://sydneybusinessweb.com.au/schema-gorilla-case-study-whole-site-analysis/)
+
 ## Developed By
 
 **Sydney Business Web**  
